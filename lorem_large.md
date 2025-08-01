@@ -13,10 +13,8 @@ magnam etincidunt velit voluptatem.
 
 3\. Consectetur quisquam sed adipisci ut numquam adipisci quiquia.
 Adipisci quiquia etincidunt est etincidunt neque porro. Consectetur sed
-tempora adipisci magnam ut labore sit. Aliquam labore labore modi dolor
-etincidunt. Ut quiquia eius etincidunt. Consectetur non quisquam magnam
-etincidunt. Sit dolore dolore ipsum sed quaerat voluptatem etincidunt.
-Etincidunt quisquam ut consectetur dolor.
+tempora adipisci magnam ut labore sit. Sit dolore dolore ipsum sed
+quaerat voluptatem etincidunt. Etincidunt quisquam ut consectetur dolor.
 
 4\. Dolore ipsum dolor ut consectetur. Tempora dolor est ut quaerat.
 Magnam sit dolorem sed non. Ipsum dolore est adipisci adipisci magnam.
@@ -34,7 +32,8 @@ quisquam.
 6\. Dolor labore ipsum adipisci amet tempora non. Voluptatem non numquam
 amet ut est. Est ipsum eius est quiquia consectetur numquam consectetur.
 Eius eius neque tempora adipisci modi ut. Quisquam magnam est dolorem
-labore non. Voluptatem est dolore ut. Non numquam ut velit.
+labore non. Voluptatem est dolore ut. Non numquam ut velit. Consectetur
+sed tempora adipisci magnam ut labore sit
 
 7\. Neque sed ut est eius numquam. Aliquam tempora dolorem velit numquam
 dolor magnam numquam. Velit amet numquam quisquam labore tempora aliquam
